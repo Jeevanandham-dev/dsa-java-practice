@@ -36,10 +36,9 @@ Compile and run using:
 javac FileName.java
 java FileName
 
----
 
-## 📝 Commit Convention
 
+📝 Commit Convention
 I follow Conventional Commits:
 
 feat: → Add a new program
