@@ -29,16 +29,7 @@ It serves as a record of my learning journey and a way to showcase consistency, 
 
 ---
 
-## ✅ How to Run
-Each file is self-contained.  
-Compile and run using:
-```bash
-javac FileName.java
-java FileName
-
-
-
-📝 Commit Convention
+## 📝 Commit Convention
 I follow Conventional Commits:
 
 feat: → Add a new program
@@ -48,4 +39,17 @@ fix: → Fix a bug in a program
 refactor: → Improve code without changing behavior
 
 docs: → Update documentation (like this README)
+
+---
+
+## ✅ How to Run
+Each file is self-contained.  
+Compile and run using:
+```bash
+javac FileName.java
+java FileName
+
+
+
+
 
